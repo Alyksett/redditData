@@ -22,3 +22,6 @@ The data is as follows:
 1. You can easily hand-pull out single tickers by constructing a `Ticker` object. This works well enough
 2. There's likely some work you can do by looking at posts with a ticker name and the numer of comments it has (i.e a post about XYZ has 100 comments, it's probably fair to assume that it's a busy ticker).
 
+
+### Note:
+I made this in ~2 hours so it's shoddily held together 
